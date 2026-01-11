@@ -19,7 +19,7 @@ I'm a current **Data Science Master's student** with a keen interest in the inte
 
 #### 📊 Advanced Analytics
 * **[FIFA Performance & Macroeconomics](https://github.com/thebuskids/glowing-potato/tree/main/worldcup-socioeconomic-analysis)** - A collaborative project analyzing how economic factors might influence FIFA World Cup performance.
-* **[Data Science Sandbox](https://github.com/thebuskids/glowing-potato)** *A collection of my MS coursework and exploratory data analysis driven by curiosity.*
+* **[Data Science Sandbox](https://github.com/thebuskids/glowing-potato)** - A collection of my MS coursework and exploratory data analysis driven by curiosity.
 
 ---
 > "Music is the arithmetic of sounds as optics is the geometry of light." 
