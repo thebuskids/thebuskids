@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a current **Data Science Master's student** with a keen interest in the intersection of data, behavior, and audio. My goal is to apply machine learning to enhance how we discover and experience the entertainment industry. I use this space to document my projects, experiments, and my journey through advanced analytics.
+I'm a current **Data Science Master's student** in NYC and **Orchestral Musician**. I'm passionate about the intersection of data, behavior, and audio, using machine learning to solve challenges in the audio and entertainment space - specifically how Music Information Retrieval (MIR) can improve personalization and discovery. I use this space to document my projects, experiments, and my journey through advanced analytics.
+
+<p align="center"><img src="https://github.com/thebuskids/Spotify-Churn-RevenueRisk/raw/main/visuals/radar_chart.png" width=400 alt="Radar chart comparing attributes of retained users vs churn-risk users across age, ads listened per week, skip rate"/>
+<br><i>Figure 1: Visualizing user segments - comparing behavior of retained vs churn-risk profiles</i></p>
 
 ### 🛠 Technical Stack
 * **Languages:** Python, SQL, R
@@ -11,7 +14,7 @@ I'm a current **Data Science Master's student** with a keen interest in the inte
 - 🌱 **Learning:** Scikit-Learn, SciPy, PyTorch, Digital Signal Processing, Music Information Retrival (MIR)
 - 📊 **Working on:** Portfolio projects (see pinned repos below!)
 
-### 📂 Highlighted Projects
+### 📂 Featured Projects
 
 #### 🎵 Audio & Entertainment
 * **[Sonic Clusters - Spotify 2023 Top Tracks](https://github.com/thebuskids/SonicDNA-Spotify-Analysis)** – Finding "sonic fingerprints" and clustering the audio DNA of 2023's top songs.
