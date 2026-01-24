@@ -1,18 +1,35 @@
+> "Music is the arithmetic of sounds as optics is the geometry of light." 
+> — **Claude Debussy** 🎵
+
 ## Hi there 👋
 
 I'm a current **Data Science Master's student** in NYC and **Orchestral Musician**. I'm passionate about the intersection of data, behavior, and audio, using machine learning to solve challenges in the audio and entertainment space - specifically how Music Information Retrieval (MIR) can improve personalization and discovery. I use this space to document my projects, experiments, and my journey through advanced analytics.
 
-<p align="center"><img src="https://github.com/thebuskids/Spotify-Churn-RevenueRisk/raw/main/visuals/radar_chart.png" width=600 alt="Radar chart comparing attributes of retained users vs churn-risk users across age, ads listened per week, skip rate"/>
-<br><i>Figure 1: Visualizing user segments - comparing behavior of retained vs churn-risk profiles</i></p>
+<p align="center">
+  <img src="https://github.com/thebuskids/Spotify-Churn-RevenueRisk/raw/main/visuals/radar_chart.png" width=400 alt="Radar chart comparing attributes of retained users vs churn-risk users across age, ads listened per week, skip rate"/>
+  <img src="https://github.com/thebuskids/SonicDNA-Spotify-Analysis/raw/main/visuals/mode_vs_cluster.png" width=575 alt="Bar chart showing music modes of songs by cluster"/>
+</p>
+<p>
+  <em>Left: Spotify Churn Analysis: Visualizing user segments - comparing behavior of retained vs churn-risk profiles</em>
+</p>
+<p>
+  <em>Right: Sonic Clusters Analysis: Visualizing music mode distribution by cluster</em>
+</p>
+
+##
 
 ### 🛠 Technical Stack
 * **Languages:** Python, SQL, R
 * **Libraries:** Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn
 * **Tools:** Git, Jupyter, Tableau, Looker, Jira, Confluence
 
+##
+
 ### 🧪 Current Focus
 - 🌱 **Learning:** Scikit-Learn, SciPy, PyTorch, Digital Signal Processing, Music Information Retrival (MIR)
 - 📊 **Working on:** Portfolio projects (see pinned repos below!)
+
+##
 
 ### 📂 Featured Projects
 
@@ -23,10 +40,6 @@ I'm a current **Data Science Master's student** in NYC and **Orchestral Musician
 #### 📊 Advanced Analytics
 * **[FIFA Performance & Macroeconomics](https://github.com/thebuskids/glowing-potato/tree/main/worldcup-socioeconomic-analysis)** - A collaborative project analyzing how economic factors might influence FIFA World Cup performance.
 * **[Data Science Sandbox](https://github.com/thebuskids/glowing-potato)** - A collection of my MS coursework and exploratory data analysis driven by curiosity.
-
----
-> "Music is the arithmetic of sounds as optics is the geometry of light." 
-> — **Claude Debussy** 🎵
 
 <!--
 **thebuskids/thebuskids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
