@@ -6,8 +6,8 @@
 I'm a current **Data Science Master's student** in NYC and **Orchestral Musician**. I'm passionate about the intersection of data, behavior, and audio, using machine learning to solve challenges in the audio and entertainment space - specifically how Music Information Retrieval (MIR) can improve personalization and discovery. I use this space to document my projects, experiments, and my journey through advanced analytics.
 
 <p align="center">
-  <img src="https://github.com/thebuskids/Spotify-Churn-RevenueRisk/raw/main/visuals/radar_chart.png" width=400 alt="Radar chart comparing attributes of retained users vs churn-risk users across age, ads listened per week, skip rate"/>
-  <img src="https://github.com/thebuskids/SonicDNA-Spotify-Analysis/raw/main/visuals/mode_vs_cluster.png" width=575 alt="Bar chart showing music modes of songs by cluster"/>
+  <img src="https://github.com/thebuskids/Spotify-Churn-RevenueRisk/raw/main/visuals/radar_chart.png" height=200 alt="Radar chart comparing attributes of retained users vs churn-risk users across age, ads listened per week, skip rate"/>
+  <img src="https://github.com/thebuskids/SonicDNA-Spotify-Analysis/raw/main/visuals/mode_vs_cluster.png" height=200 alt="Bar chart showing music modes of songs by cluster"/>
 </p>
 <p>
   <em>Left: Spotify Churn Analysis: Visualizing user segments - comparing behavior of retained vs churn-risk profiles</em>
